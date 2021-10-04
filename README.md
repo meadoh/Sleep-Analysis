@@ -4,6 +4,9 @@ The aim of this analysis is to see if we can predict the prescence of common hea
 
 The classification models that will be tested are Logistic Regression, KNN and Random Forest. Good accuracy and f1 scores will show the relationship between sleep and overall health. Out of the three models, Random Forest performed the best with an accuracy of 64% and 61%, with the majority of the predictions being true positives/negatives. This would beat the baseline (55%) and thus shows a relationship between sleep and overall health.
 
+**Problem Statement:**
+Poor sleep has been linked to many health condtions, as well as impaired cognitive functions. The average American does not get the reccommended amount of sleep per night. Using machine learning models we will find out if using sleep patterns alone can help  determine the prescence of health conditions in survey participants to better inform our lifestyle choices and thus help us get more sleep and lead healthier lives.
+
 
 **Data Description**
 Data was captured via cold-calling by WBA Market research for the National Sleep Foundation in 2008. The questionnaire used by the interviewers is provided below in the Dataset section. 
