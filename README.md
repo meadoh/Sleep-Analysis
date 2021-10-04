@@ -42,3 +42,6 @@ https://www.sleepfoundation.org/wp-content/uploads/2018/10/SIAQuestionnaire2008.
 **single_dual_household**|*object*|SIA / Questionnaire2008|Single or dual income household|
 **house_hold_income_bracket**|*object*|SIA / Questionnaire2008|Income bracket)|
 **age**|*float*|SIA / Questionnaire2008|Age of participant|
+
+**Conclusion**
+The Random forest model was able to predict presence of a health condition better than the baseline model thus showing a relationship average sleep and overall health. Next steps would be to conduct the study again using more current data with more sleep based stats. 
